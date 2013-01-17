@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["super+k", "super+s"],
+        "command": "rspec_examples"
+    }
+]
